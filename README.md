@@ -76,6 +76,11 @@ Ubuntu Server requires a slightly different execution procedure:
 
 then follow the instructions.
 
+### Debian
+
+- Us only Debian Live images.
+- After boot on live mode need change root password: #sudo passwd root . This password need enter in the interactive script. 
+
 ## Stability
 
 The project is carefully developed, however, it's practically impossible to guarantee continuous stability, for two reasons:

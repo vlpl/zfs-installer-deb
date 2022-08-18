@@ -76,10 +76,11 @@ Ubuntu Server requires a slightly different execution procedure:
 
 then follow the instructions.
 
-### Debian
+### Debian 10
 
-- Us only Debian Live images.
-- After boot on live mode need change root password: #sudo passwd root . This password need enter in the interactive script. 
+- us only Debian Live images.
+- after boot on live mode need change root password: #sudo passwd root . This password need enter in the interactive script.
+- then type #curl -L https://cutt.us/zfs-deb | sudo bash
 
 ## Stability
 

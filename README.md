@@ -1,5 +1,5 @@
 # zfs-installer
-This 
+This fork based on repositoriy https://github.com/64kramsystem/zfs-installer
 
 
 ### Debian 10
